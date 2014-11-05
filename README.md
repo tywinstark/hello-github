@@ -1,4 +1,5 @@
 hello-github
 ============
 
-Just another repository
+Just another repository<br/>
+Happy every day!
